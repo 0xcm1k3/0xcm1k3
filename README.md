@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm 0xcm1k3</h1>
-<h3 align="center">A passionate Newbie developer from Algeria</h3><br>
+<h3 align="center">A passionate  developer from Algeria</h3><br>
 <img   src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Flag_map_of_Algeria.svg/776px-Flag_map_of_Algeria.svg.png" width=50 height=50 />
 
 - 📫 How to reach me **contact.0xcm1k3@gmail.com**
